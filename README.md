@@ -4,6 +4,12 @@
 
 > **Project status:** documented research model. The workbook is a research-context and relative-volatility tool, not a backtested strategy, portfolio system, or trade-signal engine. The screenshots below show the working interface and point-in-time model outputs; the repository does not redistribute the underlying vendor data feed.
 
+### 📘 Educational Guide
+
+**[Read / Download the Volatility Positioning Map Educational Guide (PDF)](Volatility_Positioning_Map_Educational_Guide.pdf)**
+
+A 12-page visual walkthrough of the dashboard, scoring framework, Volatility Positioning Map, IV Premium Compass, Reversion Compass, regime model and fixed-strike volatility tracker — including what each measure means, how it is calculated, and how the pieces are used together.
+
 ![Volatility Positioning Map dashboard](images/dashboard.jpg)
 
 ## What the model does
@@ -229,6 +235,7 @@ Important current limitations include:
 ~~~text
 Volatility-Positioning-Map/
 ├── README.md
+├── Volatility_Positioning_Map_Educational_Guide.pdf
 ├── docs/
 │   ├── architecture.md
 │   ├── methodology.md
